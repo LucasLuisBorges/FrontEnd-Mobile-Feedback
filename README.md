@@ -7,7 +7,7 @@
   <img src="https://github.com/LucasLuisBorges/FrontEnd-Mobile-Feedback/blob/master/assets/readme/4.jpeg" width="150">
 </p>
 
-## On
+## This project
 An application designed to simulate a user's experience with feedback submissions
 
 ## 🚀 GetStart
